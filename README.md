@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-  <h1>:wave: Hi, I’m Rene Shen</h1>
+  <h1>:wave: Hi, I’m Rene</h1>
 </div>
 
 <!-- Free GIF from Giphy -->
@@ -50,7 +50,6 @@ I am a full stack developer located in San Jose, CA
   <img align="left" alt="CSS Badge" src="https://img.shields.io/badge/css3-wordmark.svg?style=for-the-badge&logo=css3&color=444&logoColor=white" />
   <img align="left" alt="HTML5 Badge" src="https://img.shields.io/badge/html5-original.svg?style=for-the-badge&logo=html5&color=444&logoColor=%2361DAFB" />
   <img align="left" alt="MySQL Badge" src="https://img.shields.io/badge/mysql-wordmark.svg?style=for-the-badge&logo=MySQL&color=444&logoColor=white"/>
-  <img align="left" alt="Git Badge" src="https://img.shields.io/badge/git-wordmark.svg?style=for-the-badge&logo=git&color=444&logoColor=white"/>
 </div>  
 
 <!---
