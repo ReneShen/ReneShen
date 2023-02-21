@@ -30,7 +30,7 @@
 
 <!-- About Me -->
 ### About Me:
-I am a full stack developer based in San Jose, CA
+I am a full stack developer located in San Jose, CA
 
 - 🍰 I was a pastry chef
 - 👀 I’m interested in building more webpages that reduce Level of Effort, which then helps people to have more time to plan and create greater things.
