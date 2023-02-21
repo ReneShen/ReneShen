@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/ReneShen/portfolio.git">
-    <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
@@ -39,6 +39,19 @@ I am a full stack developer based in San Jose, CA
 - 📫 How to reach me: rene.shen0328@gmail.com / Text: (312)479-64444
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Languages and Tools -->
+### Languages and Tools:
+<div>
+  <img align="left" alt="JavaScript Badge" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img align="left" alt="React Badge" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&color=444&logoColor=%2361DAFB"/>
+  <img align="left" alt="Express Badge" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&color=444&logo=express&logoColor=white"/>
+  <img align="left" alt="Node Badge" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&color=444&logoColor=%2361DAFB"/>
+  <img align="left" alt="CSS Badge" src="https://img.shields.io/badge/css3-wordmark.svg?style=for-the-badge&logo=css3&color=444&logoColor=white" />
+  <img align="left" alt="HTML5 Badge" src="https://img.shields.io/badge/html5-original.svg?style=for-the-badge&logo=html5&color=444&logoColor=%2361DAFB" />
+  <img align="left" alt="MySQL Badge" src="https://img.shields.io/badge/mysql-wordmark.svg?style=for-the-badge&logo=MySQL&color=444&logoColor=white"/>
+  <img align="left" alt="Git Badge" src="https://img.shields.io/badge/git-wordmark.svg?style=for-the-badge&logo=git&color=444&logoColor=white"/>
+</div>  
 
 <!---
 ReneShen/ReneShen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
