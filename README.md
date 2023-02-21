@@ -33,8 +33,8 @@
 I am a full stack developer located in San Jose, CA
 
 - 🍰 I was a pastry chef
-- 👀 I’m interested in building more webpages that reduce Level of Effort, which then helps people to have more time to plan and create greater things.
-- 🌱 In my free time, I build personaal projects to strengthen my React, PHP, SQL, and design skills.
+- 👀 I’m interested in building more webpages that reduce business engineers Level of Effort, which then helps people to have more time to plan and create greater things.
+- 🌱 In my free time, I build personal projects to strengthen my React, PHP, SQL, and design skills.
 - 💞️ I’m used to learning fast under high-pressure-environment, and am looking to collaborate and assist in developing and modifying websites and user interfaces
 - 📫 How to reach me: rene.shen0328@gmail.com / Text: (312)479-6444
 
