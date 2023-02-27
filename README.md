@@ -12,6 +12,9 @@
   <a href="https://github.com/ReneShen/portfolio.git">
     <img src="https://img.shields.io/badge/portfolio-red?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
   </a>
+  <a href="https://github.com/ReneShen/ReneShen/blob/6234bbcddfabf0afe256057da80ae6101df5ef71/022623Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=github&logoColor=white" alt="Resume Badge"/>
+  </a>
 </div>
 
 <!-- Github visits -->
